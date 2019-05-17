@@ -16,7 +16,7 @@
   "author": "Hugh Rawlinson <hughr2005@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "ava": "^0.21.0",
+    "ava": "^1.4.1",
     "babel-cli": "^6.26.0",
     "babel-plugin-transform-commonjs-es2015-modules": "^3.0.2",
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
